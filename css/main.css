@@ -1,0 +1,16 @@
+#bg-canvas
+{
+    position: absolute;
+    width:800px;
+    height: 600px;
+
+}
+
+#animation-canvas
+{
+    /*background-color: green;*/
+    position: relative;
+    margin-left: 10px;
+    width: 800px;
+    height: 600px;
+}
