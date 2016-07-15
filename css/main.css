@@ -1,8 +1,8 @@
 #bg-canvas
 {
     position: absolute;
-    width:800px;
-    height: 600px;
+    width:100%;
+    height: auto;
 
 }
 
